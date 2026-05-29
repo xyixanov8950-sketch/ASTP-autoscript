@@ -5,7 +5,6 @@
 Скрипт используется для быстрой замены кода в файле с расширением .py
 Подходит для Вайб Кодеров — тех, кто пишет код с помощью Искусственного Интеллекта
 
-Окошко скрипта выполнено в стиле Windows XP
 
 Как использовать:
 0. Скачайте ехе файл
@@ -28,7 +27,6 @@ Creator: dvlk2
 This script is designed for quickly replacing code inside a .py file
 Perfect for Vibe Coders — those who write code with the help of Artificial Intelligence
 
-The script window is styled like Windows XP
 
 How to use:
 0. Download EXE files
