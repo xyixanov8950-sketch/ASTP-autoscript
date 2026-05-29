@@ -41,3 +41,5 @@ Required libraries (install with one command):
 pip install pyautogui keyboard pillow requests
 
 Done! ✨
+
+https://drive.google.com/file/d/1eLYsBPJzGbvb4GRok8YDDsge2OHpz_fO/view?usp=sharing
